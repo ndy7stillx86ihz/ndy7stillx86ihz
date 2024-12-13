@@ -4,7 +4,7 @@ Soy Carlos, desarrollador con pasión por la tecnología y el aprendizaje contin
 
 ---
 
-### Tecnologías y Herramientas
+### Tecnologías que domino
 - **Lenguajes:** Python, Java, Bash, JavaScript, C++, SQL
 - **Frameworks y Librerías:**
   - 🔹 Django, Django Rest Framework, FastAPI, Flask
@@ -18,7 +18,7 @@ Soy Carlos, desarrollador con pasión por la tecnología y el aprendizaje contin
 
 ---
 
-### Proyectos Destacados
+### Principales Proyectos
 
 - 🕹️ [**FlappyBird**](https://github.com/duckraper/flappybird): Implementación con principios SOLID usando PyGame.
 - 📱 [**API Social Network**](https://github.com/duckraper/drf-api-social-network-example): Ejemplo educativo de una API REST clásica con Django Rest Framework.
