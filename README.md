@@ -35,6 +35,7 @@ Soy Carlos, desarrollador con pasión por la tecnología y el aprendizaje contin
 
 ### Principales Proyectos
 
+- 📫 [**CLI Based Chat**](https://github.com/duckraper/cli-socket-chat): Chat con CLI usando la libreria socket de Python
 - 🕹️ [**FlappyBird**](https://github.com/duckraper/flappybird): Implementación con principios SOLID usando PyGame.
 - 📱 [**API Social Network**](https://github.com/duckraper/drf-api-social-network-example): Ejemplo educativo de una API REST clásica con Django Rest Framework.
 - 🎥 [**VideoClub**](https://github.com/duckraper/videoclub): Backend completo y despliegue de una aplicación de gestión de videoclub.
