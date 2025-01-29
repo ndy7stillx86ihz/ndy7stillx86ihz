@@ -1,10 +1,10 @@
 
 
 ```console
-  duckraper@github$ ./start.sh  
+duckraper@github:~$ ./welcome.sh  
 ```
 
-```console
+```
 +===+%@%##*+*%#+=++***--*-*****-:--                                                                                             
 ====#@##*+==-=##*++*   _|_|_|                        _|                                                          
 +++*@%##*===-:=#+++*   _|    _|  _|    _|    _|_|_|  _|  _|    _|  _|_|    _|_|_|  _|_|_|      _|_|    _|  _|_|  
@@ -16,27 +16,31 @@
 ```
 
 ```console
-  duckraper@github$ cat about-me.py
+duckraper@github:~$ cat about-me.py
 ```
 
 ```python
-  INFO = [
-      "🎓 Cybersecurity Engineering",
-      "🚩 Interested in networking and cryptography stuff",
-      "🐍 Python scripting lover to the bone",
-      "👨‍💻 I code in Java, Javascript and Bash too",
-      "🌱 Improving my software design skill",
-      "☠️ CTF player (mostly web and crypto challenges)",
-      "🎮 Sometimes i develop tiny games as a hobbie"
-  ]
+INFO = [
+    "🎓 Cybersecurity Engineering",
+    "🚩 Interested in networking and cryptography stuff",
+    "🐍 Python scripting lover to the bone",
+    "👨‍💻 I code in Java, Javascript and Bash too",
+    "🌱 Improving my software design skill",
+    "☠️ CTF player (mostly web and crypto challenges)",
+    "🎮 Sometimes i develop tiny games as a hobbie"
+]
 ```
 
 ```console
-       _________________________________________
-      ( check out some of my projects down here )
-       -----------------------------------------
+duckraper@github:~$ python -c "from duckutils import show_treasures; show_treasures()"
+```
+
+```
+       ______________________________________________
+      ( watch!... some of my treasures lay down here )
+       ----------------------------------------------
        o
-        o                        ____
-         o >()__                 | v ||
-            (___) __.  . .. . . --------
+        o                            ____
+         o >()__                    | v ||
+            (___) __.  . .. .  . . --------
 ```
