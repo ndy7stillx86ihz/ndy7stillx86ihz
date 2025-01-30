@@ -32,7 +32,7 @@ INFO = [
 ```
 
 ```console
-duckraper@github:~$ python -c "from duckutils import show_treasures; show_treasures()"
+duckraper@github:~$ python3 -c "from duckutils import show_treasures; show_treasures()"
 ```
 
 ```
