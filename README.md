@@ -17,7 +17,7 @@ ndy7stillx86ihz@github:~$ cat about-me.py
 
 ```python
 INFO = [
-    "🎓 Cybersecurity Engineering",
+    "🎓 Cybersecurity Engineer",
     "🚩 Interested in networking and cryptography stuff",
     "🐍 Python scripting lover to the bone",
     "👨‍💻 I code in Java, Javascript and Bash too",
