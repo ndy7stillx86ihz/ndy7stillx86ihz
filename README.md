@@ -22,7 +22,6 @@ INFO = [
     "🐍 Python scripting lover to the bone",
     "☕ I mainly code in Java (against my will)",
     "🌱 Improving my software design skill",
-    "☠️ CTF player (mostly web and crypto challenges)",
     "🎮 Sometimes i develop tiny games as a hobbie"
 ]
 ```
