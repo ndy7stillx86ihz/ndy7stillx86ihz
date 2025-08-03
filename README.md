@@ -17,12 +17,12 @@ ndy7stillx86ihz@github:~$ cat about-me.py
 
 ```python
 INFO = [
-    "🎓 Cybersecurity Engineer",
-    "🚩 Interested in networking and cryptography stuff",
-    "🐍 Python scripting lover to the bone",
-    "☕ I mainly code in Java (against my will)",
-    "🌱 Improving my software design skill",
-    "🎮 Sometimes i develop tiny games as a hobbie"
+    "Cybersecurity Engineer",
+    "Interested in networking and cryptography stuff",
+    "I mainly code in Java (against my will)",
+    "Python scripting lover to the bone",
+    "Improving my software design skill",
+    "Sometimes i develop tiny games as a hobbie"
 ]
 ```
 
